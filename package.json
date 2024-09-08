@@ -6,6 +6,7 @@
     "@mui/material": "^6.0.2",
     "@stripe/stripe-js": "^4.4.0",
     "firebase": "^10.13.1",
-    "openai": "^4.58.1"
+    "openai": "^4.58.1",
+    "stripe": "^16.10.0"
   }
 }
